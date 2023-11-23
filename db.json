@@ -1,16 +1,16 @@
 {
    "products": [
    {
-      "slug": "cbd-stickers",
-      "id": "cbd-stickers",
-      "productTitle": "Custom CBD Stickers & Labels",
+      "slug": "cbd-candy-boxes",
+      "id": "cbd-candy-boxes",
+      "productTitle": "Custom CBD Candy Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-02.png-gallery1"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778736CBD-Candy-Boxes-SirePrinting-02.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778736CBD-Candy-Boxes-SirePrinting-03.png-gallery2"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": ""
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Dimensions",
         "detail": "All Sizes Available"
@@ -19,17 +19,17 @@
         "detail": "100"
       }],
       "relatedProducts": [{
-        "slug": "clear-stickers",
-        "productTitle": "Clear Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+        "slug": "custom-vape-boxes",
+        "productTitle": "Custom Vape Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
       },{
-        "slug": "custom-vinyl-stickers",
-        "productTitle": "Custom Vinyl Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"
+        "slug": "vape-pen-boxes",
+        "productTitle": "Vape Pen Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png"
       }],
        "description": [{
-        "descriptionHeading": "How Custom CBD Stickers ",
-        "descriptionText": "CBD Stickers and product labels"
+        "descriptionHeading": "Custom CBD Candy Boxes",
+        "descriptionText": "There are various types of delicious chocolates with different flavors in the market."
       }]
     },{
       "slug": "cbd-extract-boxes",
