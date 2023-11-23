@@ -1,1 +1,206 @@
-
+{
+   "products": [
+   {
+      "slug": "cbd-stickers",
+      "id": "cbd-stickers",
+      "productTitle": "Custom CBD Stickers & Labels",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-02.png-gallery1"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": ""
+      },{
+        "name": "Dimensions",
+        "detail": "All Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "100"
+      }],
+      "relatedProducts": [{
+        "slug": "clear-stickers",
+        "productTitle": "Clear Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+      },{
+        "slug": "custom-vinyl-stickers",
+        "productTitle": "Custom Vinyl Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"
+      }],
+       "description": [{
+        "descriptionHeading": "How Custom CBD Stickers ",
+        "descriptionText": "CBD Stickers and product labels"
+      }]
+    },{
+      "slug": "cbd-extract-boxes",
+      "id": "cbd-extract-boxes",
+      "productTitle": "Custom CBD Extract Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776596CBD-Extract-Boxes-03.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776597CBD-Extract-Boxes-05.png-gallery3"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Dimensions",
+        "detail": "All Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "cannabis-blunt-boxes",
+        "productTitle": "Cannabis Blunt Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
+      }],
+      "description": [{
+        "descriptionHeading": "How Custom CBD Stickers ",
+        "descriptionText": "CBD Stickers and product labels"
+      }]
+    },{
+      "slug": "custom-tincture-boxes",
+      "id": "custom-tincture-boxes",
+      "productTitle": "Custom Tincture Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-04.png-gallery3"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Dimensions",
+        "detail": "All Sizes Available"
+      }],
+      "relatedProducts": [{
+        "slug": "cannabis-blunt-boxes",
+        "productTitle": "Cannabis Blunt Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
+      }]
+    },{
+      "slug": "custom-cigarette-boxes",
+      "id": "custom-cigarette-boxes",
+      "productTitle": "Custom Cigarette Boxes",
+       "description": [{
+        "descriptionHeading": "Attractive Custom Cigarette Boxes",
+        "descriptionText": "Everyone is saying that smoking is injurious to health"
+      }],
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "cbd-pre-rolls-boxes",
+        "productTitle": "CBD Pre Rolls Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"
+      },{
+        "slug": "pod-vape-boxes",
+        "productTitle": "Pod Vape Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2001.png"
+      }],
+      "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "Unveiling The Ultimate Pre Roll Packaging Solutions!",
+        "blogdate": "02 Nov",
+        "blogtext": "In the world of cannabis and tobacco products, packaging plays a significant role in brand recognition, product protection...",
+        "bloglink": " CBD Packaging",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697676820-unveiling-the-ultimate-pre-roll-packaging-solutions.avif"
+      }]
+    },{
+      "slug": "cannabis-blunt-boxes",
+      "id": "cannabis-blunt-boxes",
+      "productTitle": "Custom Cannabis Blunt Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "cbd-bath-bomb-boxes",
+        "productTitle": "CBD Bath Bomb Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png"
+      },{
+        "slug": "Custom Hemp Boxes",
+        "productTitle": "Custom Hemp Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2001.png"
+      }],
+       "description": [{
+        "descriptionHeading": "Blunt Boxes",
+        "descriptionText": "Snuff ends the craving of smokers by relaxing their brains and alleviating the worry. "
+      }]
+    },{
+      "slug": "cannabis-display-boxes",
+      "id": "cannabis-display-boxes",
+      "productTitle": "Custom Cannabis Display Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-04.png-gallery3",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-05.png-gallery4"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "cbd-gummies-boxes",
+        "productTitle": "CBD Gummies Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1602200995/cbd-gummies-boxes.png"
+      },{
+        "slug": "cbd-chocolate-boxes",
+        "productTitle": "CBD Chocolate Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640139160CBD%20Chocolate%20Boxes%20Sire%20Printing%2001.png"
+      }],
+        "relatedPortfolio": [
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697594876-cbd-gummies-display-boxes-sire-printing.avif"
+    ],
+       "description": [{
+        "descriptionHeading": "Shiny And Glossy Custom Cannabis Display Boxes ",
+        "descriptionText": "Custom Cannabis Boxes play a vital role in product sales and purchase."
+      }]
+    },{
+      "slug": "cannabis-perfume-boxes",
+      "id": "cannabis-perfume-boxes",
+      "productTitle": "Custom Cannabis Perfume Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778645Cannabis-Perfume-Boxes-SirePrinting-02.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778645Cannabis-Perfume-Boxes-SirePrinting-04.png-gallery3"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "raw-cbd-oil-boxes",
+        "productTitle": "Raw CBD Oil Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640226703Raw%20CBD%20Oil%20Box%20Packaging%20Sire%20Printing%2001.png"
+      },{
+        "slug": "custom-cbd-salve-boxes",
+        "productTitle": "Custom CBD Salve Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878086CBD-Salve-Boxes-Sire-Printing-04.png"
+      }],
+       "description": [{
+        "descriptionHeading": "Get High-Quality Custom Printed Cannabis Perfume Boxes",
+        "descriptionText": "If you want High-quality Custom Cannabis Perfume Boxes"
+      }]
+    }
+  ]
+}
